@@ -1,3 +1,5 @@
+*Run the .jar file in order to play the game*
+
 PROJECT TITLE: Spherehead
 
 1. Authors: Yameen Abba, Stanley Chan, Kelvin Mo, Steven Lin
