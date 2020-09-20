@@ -1,3 +1,5 @@
+![alt text](https://github.com/y2abba/Boxhead/blob/master/boxhead%20screensnip.png?raw=true)
+
 *Run the .jar file in order to play the game*
 
 PROJECT TITLE: Spherehead
@@ -22,11 +24,4 @@ had to reside, which eneded up working nicely for us
 -figuring out how to swap weapons and allow the user to have a multitude of weapon
 variety to choose from, problems particularly stemmed from the side of inheritance
 of classes
--implementing the recursive sort, as we are still facing problems with it
-
-5. Issues
-As of writing this, we have not yet fixed up our recursive sorting algorithm. Additionally,
-we do not have sounds yet and some worlds may have bugs/show nothing when accessing them.
-We are currently working on these features. Some features we could also add could be
-additional lives for each player, as well as a multiplier for the score obtained after each
-kill.
+-implementing the recursive sort
